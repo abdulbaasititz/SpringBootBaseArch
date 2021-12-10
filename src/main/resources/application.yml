@@ -1,0 +1,6 @@
+amazonProperties:
+  endpointUrl: https://s3.ap-southeast-1.amazonaws.com
+  accessKey: AKIAVELLB47IBTGWY5MA
+  secretKey: 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
+  bucketName: smartcarservice
+  region: ap-southeast-1
